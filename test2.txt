@@ -1,2 +1,6 @@
 This is test2 file
+<<<<<<< Updated upstream
 this is git stash yfc td ytc learning
+=======
+this is git stash
+>>>>>>> Stashed changes
